@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1697968630 source:c:\users\fun and games\desktop\autoformation\coding\tic_tac_toe\tic_tac_toe_project\tic_tac_toe\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Library.h"
+
+1697934206 source:c:\users\fun and games\desktop\autoformation\coding\tic_tac_toe\tic_tac_toe_project\tic_tac_toe\library.c
+	"Library.h"
+
+1697933316 c:\users\fun and games\desktop\autoformation\coding\tic_tac_toe\tic_tac_toe_project\tic_tac_toe\library.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
